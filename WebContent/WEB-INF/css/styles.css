@@ -1,0 +1,197 @@
+/*-------------------
+        create
+--------------------*/
+
+#list_create_group {
+	height:80px;
+ 	width:400px;
+}
+
+#list_create_project {
+	height:80px;
+ 	width:400px;
+}
+
+#project_create {
+	height:auto;
+ 	width:auto;
+  padding: 5px;
+}
+
+#group_create {
+	height:auto;
+ 	width:auto;
+  padding: 5px;
+}
+
+.jumbotron_top {
+  padding: 30px;
+  margin-bottom: 10px;
+  color: inherit;
+  background-color: #F5FFFA;
+}
+
+
+.caption {
+    border:1px solid #E0E0E0
+}
+
+#add_list {
+      margin-left:30px;
+    margin-bottom: 10px;
+}
+
+
+.list_header{  
+  width: 100%;
+  height: 100%;
+  padding: 15px 15px 15px 15px;
+  cursor: -moz-grab;
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+@media (min-width:768px) {
+.container {
+width:100%;
+height:100%;
+margin: 0;
+padding: 0;
+}
+#main_content{
+     min-height: 0;
+    width:100%;
+   
+}
+
+#main_content > .row {
+     overflow-x:auto;
+     overflow-y:auto;
+     white-space:nowrap;
+     height:600px;
+}    
+#main_content > .row [class*="list"] {
+    float:none;
+    display:inline-block;
+}
+}
+
+.list_placeholder {
+    border: 2px dashed #595959;
+    width: 240px;
+    height: auto;
+    padding: 6px;
+    margin: 6px;
+
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+  }
+
+.list{
+  position: relative;
+  min-height: 1px;
+  padding-right: 7px;
+  padding-left: 7px;
+  width: auto;
+  vertical-align: top;
+}
+.task_scrollbar{
+  max-height: 500px;
+}
+.task_cards{
+    min-height: 46px;
+ 
+    max-height: 500px;
+    overflow-y: auto;
+    overflow-x: auto;
+    min-width: 260px;
+    width: auto;
+}
+.card_placeholder {
+    background: #cacaca;
+    padding: 10px;
+    margin: 3px 0px 3px 0px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+}
+
+
+/*list外层div list_outlayer，改编自bootstrap的thumbnail*/
+.list_inner_layer {
+    background: #FFFFFF;
+    position: relative;
+    
+    min-width: 260px;
+    width: auto;
+    padding: 6px;
+    margin: 6px;
+
+    vertical-align: top;
+    border: 1px solid #cacaca;
+
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+}
+
+.list_inner_layer:hover {
+    background-color:#e7f7e4;
+}
+
+.task_card {
+    min-height: 60px;
+
+  }
+
+.task_card {
+    border: 1px solid #cacaca;
+    background: white;
+    padding: 10px;
+    margin: 6px 0px 6px 0px;
+    cursor: pointer;
+    position: relative;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    word-wrap: break-word;
+    -webkit-box-shadow: 1px 1px 2px rgba(50, 50, 50, 0.2);
+    -moz-box-shadow:    1px 1px 2px rgba(50, 50, 50, 0.2);
+    box-shadow:         1px 1px 2px rgba(50, 50, 50, 0.2);
+}
+
+.task_card:hover {
+    background-color:#f7f7d4;
+}
+
+.control_task_card{
+  width: 100px;
+}
+
+.tilt.right {
+    transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -webkit-transform: rotate(3deg);
+}
+.tilt.left {
+    transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -webkit-transform: rotate(-5deg);
+}
+
+
+
+/**
+ * Define the clone that has been drag
+ */
+.on-drag {
+  -moz-box-shadow: 0 0 5px 3px rgba(0,0,0,0.3);
+  -webkit-box-shadow: 0 0 5px 3px rgba(0,0,0,0.3);
+  box-shadow: 5px 5px 5px 3px rgba(0,0,0,0.3);
+  background-color: white;
+  min-width: 15em;
+  width: 30em;
+  
+}
+

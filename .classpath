@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/InfrastructureProjects"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/WeiXinAPI"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="src" path="web"/>
+	<classpathentry kind="src" path="dao"/>
+	<classpathentry kind="src" path="service"/>
+	<classpathentry kind="src" path="model"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring3 Hibernate4 Web Libraries">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/MyEclipse Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/antlr-2.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/aopalliance-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/aspectjrt.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/aspectjweaver.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/commons-beanutils-1.8.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/commons-collections-3.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/commons-fileupload-1.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/commons-lang-2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/commons-logging-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/ezmorph-1.0.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/hibernate-core-4.2.8.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/hibernate-validator-4.3.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/hibernate-validator-annotation-processor-4.3.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/javassist-3.18.1-GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/jboss-logging-3.1.0.CR2.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/joda-time-2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/json-lib-2.4-jdk15.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/jstl.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/mysql-connector-java-5.1.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/proxool-0.9.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/proxool-cglib.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-aop-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-aop-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-aop-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-aspects-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-aspects-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-aspects-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-beans-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-beans-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-beans-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-build-src-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-context-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-context-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-context-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-context-support-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-context-support-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-context-support-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-core-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-core-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-core-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-expression-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-expression-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-expression-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-instrument-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-instrument-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-instrument-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-instrument-tomcat-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-instrument-tomcat-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-instrument-tomcat-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-jdbc-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-jdbc-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-jdbc-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-jms-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-jms-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-jms-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-orm-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-orm-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-orm-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-oxm-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-oxm-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-oxm-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-struts-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-struts-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-struts-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-test-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-test-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-test-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-tx-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-tx-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-tx-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-web-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-web-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-web-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-webmvc-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-webmvc-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-webmvc-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-webmvc-portlet-3.2.5.RELEASE.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-webmvc-portlet-3.2.5.RELEASE-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-webmvc-portlet-3.2.5.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/standard.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/validation-api-1.0.0.GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="E:/Users/DIM/Workspaces/JAR/spring-data-jpa-1.7.1.RELEASE.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

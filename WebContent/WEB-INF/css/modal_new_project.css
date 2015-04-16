@@ -1,0 +1,80 @@
+/************************** for new project modal ************************************/
+#newProject .list-group-item, #newProject .list-group-item-no-border{
+	border-left:none;
+	border-right:none;
+	padding-left:0px;
+}
+
+#newProject .list-group-item-no-border{
+	border-top:none;
+	padding-left:0px;
+}
+#newProject input, #newProject textarea{
+	overflow:auto;
+	word-break:break-all; 
+	border:0px;
+	font-size:14px;
+	margin:0px;
+	
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+#newProject textarea{
+	width:100%;
+}
+#newProject textarea{
+	margin-top:15px;
+	margin-bottom:15px;
+	font-size:14px;
+}
+#newProject .input-title{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left:0px;
+	padding-right:0px;
+	font-size: 16px;
+	color: RGB(36,160,149);
+	width: 100%;	
+}
+#newProject .modal-header{
+	font-size:16px;
+	line-height:25px;
+}
+.font-green .glyphicon{
+	color:	RGB(36,160,149);
+	font-size:14px;
+	line-height:22px;
+	padding:0px;
+	margin-right:3px;
+}
+
+.form_mid_input,
+.form_mid_input span,
+.form_mid_input input,
+.form_mid_input div{
+	padding:0px 5px 0px 1px;
+	margin:0px;
+	border:0px;
+	background-color:#eee;
+}
+.form_mid_input input{
+	height:22px;
+}
+
+.form_mid_input .glyphicon{
+	margin:0px;
+	font-size:14px;
+	color:RGB(36,160,149);
+}
+.div-slider{
+	padding:0px;
+	margin-top:5px;
+	margin-bottom:40px;
+}
+
+.green-title{
+	padding:0px;
+}
+
+/**************************************************************/

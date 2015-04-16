@@ -1,0 +1,121 @@
+@media(max-width: 768px){
+	.modal-dialog{
+		background-color:#000;
+		position: fixed;
+    	top: 0px;
+    	bottom: 0px;
+    	left: 0;
+		right:0px;
+    	z-index: 1000;
+		margin:0px;
+		padding:0px;
+		overflow:scroll;
+	}
+	
+}
+
+.modal-content{
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+	background-color:#FFF;
+}
+.modal-header{
+	text-align:left;
+	color:RGB(36,160,149);
+}
+
+/**************************big list*************************/
+.ul-big{
+	text-align:left;
+	padding:0px;
+	margin:0px 0px 20px 0px;
+}
+
+.ul-big .glyphicon{
+	color:	RGB(36,160,149);
+	font-size:25px;
+	padding:0px;
+	margin-top:-3px;
+	margin-left:6px;
+	margin-right:5px;
+}
+
+.ul-big .list-group-item {
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+	padding:0px 0px 0px 20px;
+	min-height:30px;
+	line-height:28px;
+	
+}
+
+.ul-big .list-group-item a{
+	color:RGB(51,51,51);
+	font-size:12px;
+	font-weight:500;
+	color:#666;
+}
+.ul-big .list-group-item a:hover,.ul-big .list-group-item a:focus{
+	color:RGB(36,160,149);
+	font-size:12px;
+	background-color:transparent;
+}
+.ul-big .list-group-item-header{
+	background-color:#eee;
+	padding:0px 0px 0px 10px;
+}
+.ul-big .list-group-item-header a:hover, .ul-big .list-group-item-header a:focus{
+	font-weight:700;
+	color:RGB(36,160,149);
+	text-decoration:none;
+	background-color:#eee;
+}
+.ul-big .list-group-item-header a{
+	font-weight:700;
+}
+
+
+.ul-big .list-group-item{
+	
+}
+
+.ul-big .badge{
+	margin-top:3px;
+	margin-right:10px;
+	line-height:20px;
+	height:22px;
+	text-align:center;
+	padding:0px 3px 0px 3px;
+	background-color:#fafafa;
+	border:1px solid #efefef;
+	color:#666;
+	font-size:10px;
+	font-weight:500;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+.ul-big .badge a{
+	font-size:10px;
+	color:#666;
+}
+.ul-big .badge a:hover,.ul-big .badge a:focus {
+	font-size:10px;
+	color:#39C;
+	text-decoration:none;
+	background-color:transparent;
+}
+.ul-big .list-group-item-header .badge{
+	width:30px;
+	background-color:#F69;
+	color:#fff;
+}
+
+.ul-big well{
+	padding:0px;
+	margin:0px;
+}
+
+/*******************/
